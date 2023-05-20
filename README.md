@@ -19,7 +19,7 @@ npm install redis
 
 
 
-Start server using belo command
+Start server 
 
 ```bash
 node app
